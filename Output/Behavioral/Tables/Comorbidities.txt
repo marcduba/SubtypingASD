@@ -1,0 +1,44 @@
+Var1	ASD-I	Perc1	ASD-II	Perc2
+ADHD-Inattentive Type	35	45.4545454545455	28	31.8181818181818
+ADHD-Combined Type	23	29.8701298701299	38	43.1818181818182
+Generalized Anxiety Disorder	15	19.4805194805195	11	12.5
+Language Disorder	12	15.5844155844156	17	19.3181818181818
+Social Anxiety (Social Phobia)	11	14.2857142857143	4	4.54545454545455
+Specific Phobia	10	12.987012987013	16	18.1818181818182
+Specific Learning Disorder with Impairment in Reading	9	11.6883116883117	13	14.7727272727273
+Enuresis	7	9.09090909090909	9	10.2272727272727
+Persistent (Chronic) Motor or Vocal Tic Disorder	7	9.09090909090909	6	6.81818181818182
+Oppositional Defiant Disorder	6	7.79220779220779	13	14.7727272727273
+Obsessive-Compulsive Disorder	5	6.49350649350649	6	6.81818181818182
+Separation Anxiety	5	6.49350649350649	1	1.13636363636364
+Specific Learning Disorder with Impairment in Mathematics	5	6.49350649350649	11	12.5
+Specific Learning Disorder with Impairment in Written Expression	5	6.49350649350649	12	13.6363636363636
+Speech Sound Disorder	5	6.49350649350649	4	4.54545454545455
+Borderline Intellectual Functioning	3	3.8961038961039	2	2.27272727272727
+Excoriation (Skin-Picking) Disorder	3	3.8961038961039	2	2.27272727272727
+Other Specified Anxiety Disorder	3	3.8961038961039	5	5.68181818181818
+Other Specified Attention-Deficit/Hyperactivity Disorder	3	3.8961038961039	2	2.27272727272727
+Other Specified Depressive Disorder	3	3.8961038961039	2	2.27272727272727
+Adjustment Disorders	2	2.5974025974026	1	1.13636363636364
+Developmental Coordination Disorder	2	2.5974025974026	2	2.27272727272727
+Encopresis	2	2.5974025974026	1	1.13636363636364
+Major Depressive Disorder	2	2.5974025974026	3	3.40909090909091
+ADHD-Hyperactive/Impulsive Type	1	1.2987012987013	2	2.27272727272727
+Agoraphobia	1	1.2987012987013	NA	NA
+Cannabis Use Disorder	1	1.2987012987013	1	1.13636363636364
+Other Specified Schizophrenia Spectrum and Other Psychotic Disorder	1	1.2987012987013	NA	NA
+Other Specified Tic Disorder	1	1.2987012987013	1	1.13636363636364
+Other Specified Trauma- and Stressor-Related Disorder	1	1.2987012987013	1	1.13636363636364
+Persistent Depressive Disorder (Dysthymia)	1	1.2987012987013	2	2.27272727272727
+Posttraumatic Stress Disorder	1	1.2987012987013	1	1.13636363636364
+Provisional Tic Disorder	1	1.2987012987013	1	1.13636363636364
+Tourettes Disorder	1	1.2987012987013	4	4.54545454545455
+Disruptive Mood Dysregulation Disorder	NA	NA	1	1.13636363636364
+Insomnia Disorder	NA	NA	1	1.13636363636364
+Intellectual Disability-Mild	NA	NA	3	3.40909090909091
+Non-Rapid Eye Movement Sleep Arousal Disorders	NA	NA	1	1.13636363636364
+Other Specified Disruptive, Impulse-Control, and Conduct Disorder	NA	NA	2	2.27272727272727
+Other Specified Elimination Disorder with Fecal Symptoms	NA	NA	1	1.13636363636364
+Schizophrenia	NA	NA	1	1.13636363636364
+Substance/Medication-Induced Bipolar and Related Disorder	NA	NA	1	1.13636363636364
+Trichotillomania (Hair-Pulling Disorder)	NA	NA	2	2.27272727272727

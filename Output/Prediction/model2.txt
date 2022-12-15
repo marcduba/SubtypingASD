@@ -1,0 +1,14 @@
+Estimate	SE	z.value	p	p corr
+(Intercept)	  3.18	 1.24	 2.55	0.011	0.042*   
+Sex(fem)	 -2.67	 1.53	-1.75	0.081	0.318    
+Age	 -0.22	 0.11	-2.02	0.043	0.170    
+S_collat_transv_post_CT	-14.51	19.10	-0.76	0.448	1.763    
+S_interm_prim-Jensen_CT	  9.21	11.05	 0.83	0.405	1.594    
+S_interm_prim-Jensen_SA	  5.90	 3.62	 1.63	0.103	0.404    
+Sex(fem) * Age	  0.26	 0.14	 1.84	0.065	0.257    
+Age * S_collat_transv_post_CT	  0.88	 1.69	 0.52	0.605	2.382    
+Age * S_interm_prim-Jensen_CT	 -0.93	 1.11	-0.84	0.403	1.588    
+Age * S_interm_prim-Jensen_SA	 -0.03	 0.33	-0.08	0.936	3.689    
+Sex(fem) * S_collat_transv_post_CT	 -1.74	 9.56	-0.18	0.856	3.372    
+Sex(fem) * S_interm_prim-Jensen_CT	 -1.89	 6.53	-0.29	0.772	3.042    
+Sex(fem) * S_interm_prim-Jensen_SA	 -3.86	 2.07	-1.86	0.063	0.248    

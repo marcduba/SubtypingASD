@@ -1,0 +1,2 @@
+Region	Mean ASD-I	Mean ASD-II	Cohen`s D	t	df	p	pcor	NA	NA
+S_interm_prim-Jensen	0.1255	NA	-0.31	NA	2.11	13.4114	153.7524	1.19189896973415e-27	8.72190376459759e-26

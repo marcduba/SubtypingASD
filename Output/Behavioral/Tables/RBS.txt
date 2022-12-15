@@ -1,0 +1,13 @@
+Estimate	SE	t.value	p.value	p.corr
+(Intercept)	 64.52	 15.23	 4.24	0.0000	0.0003*** 
+Group	  5.58	 21.57	 0.26	0.7963	5.9610    
+Sex	-10.54	 13.46	-0.78	0.4350	3.2565    
+Age	 -1.83	  1.25	-1.46	0.1472	1.1017    
+S_collat_transv_post_CT	 21.39	102.05	 0.21	0.8342	6.2448    
+S_interm_prim.Jensen_CT	-42.81	 72.17	-0.59	0.5540	4.1467    
+S_interm_prim.Jensen_SA	 17.93	 20.22	 0.89	0.3767	2.8195    
+Group * Sex	 13.96	 16.99	 0.82	0.4126	3.0884    
+Group * Age	 -0.16	  1.70	-0.09	0.9246	6.9214    
+Group * S_collat_transv_post_CT	-56.66	120.76	-0.47	0.6396	4.7877    
+Group * S_interm_prim.Jensen_CT	126.23	 90.80	 1.39	0.1665	1.2463    
+Group * S_interm_prim.Jensen_SA	 -8.59	 29.11	-0.29	0.7685	5.7525    

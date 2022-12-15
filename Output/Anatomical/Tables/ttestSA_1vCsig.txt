@@ -1,0 +1,2 @@
+Region	Mean Controls	Mean ASD-I	Cohen`s D	t	df	p	pcor	NA	NA
+S_interm_prim-Jensen	-0.0857	NA	0.13	NA	-0.86	-5.6250	165.7953	7.73305701215863e-08	5.65878323405531e-06
